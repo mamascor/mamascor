@@ -9,7 +9,7 @@ I wrote my first line of code in swift and ever since then i fell in love with t
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [Marco.mascorroa@gmail.com](mailto:Marco.mascorroa@gmail.com)
 
-<a href="https://www.twitter.com/boringiOS" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ioslemonade" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/boringiOS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
