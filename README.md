@@ -17,13 +17,13 @@ src="https://img.shields.io/twitter/follow/boringiOS?logo=twitter&style=for-the-
 
   <ol>
     <li>
-      <a href="https://github.com/mamascor/High-Waters">High Waters</a>
+      <a href="https://github.com/mamascor/High-Waters" target="_blank">High Waters</a>
     </li>
     <li>
-      <a href="https://github.com/mamascor/Twitter">Twitter</a>
+      <a href="https://github.com/mamascor/Twitter" target="_blank">Twitter</a>
     </li>
   <li>
-      <a href="https://apps.apple.com/us/app/trouble-do/id1621939684">Trouble Do</a>
+      <a href="https://apps.apple.com/us/app/trouble-do/id1621939684" target="_blank">Trouble Do</a>
     </li>
   </ol>
 
