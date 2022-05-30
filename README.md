@@ -17,18 +17,12 @@ src="https://img.shields.io/twitter/follow/boringiOS?logo=twitter&style=for-the-
 
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="https://github.com/mamascor/High-Waters">High Waters</a>
+      
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="https://github.com/mamascor/Twitter">Twitter</a>
     </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 
 
