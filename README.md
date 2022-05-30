@@ -18,7 +18,6 @@ src="https://img.shields.io/twitter/follow/boringiOS?logo=twitter&style=for-the-
   <ol>
     <li>
       <a href="https://github.com/mamascor/High-Waters">High Waters</a>
-      
     </li>
     <li>
       <a href="https://github.com/mamascor/Twitter">Twitter</a>
