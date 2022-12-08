@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/boringiOS?logo=twitter&style=for-the-
       <a href="https://github.com/mamascor/Twitter" target="_blank">Twitter</a>
     </li>
   <li>
-      <a href="https://apps.apple.com/us/app/trouble-do/id1621939684" target="_blank">Trouble Do</a>
+      <a href="https://github.com/mamascor/Uber" target="_blank">Uber</a>
     </li>
   </ol>
 
