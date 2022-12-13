@@ -86,12 +86,14 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c6zg3civnahnm34fx2nb7vmkju&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="left">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamascor&" alt="mamascor" /></p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31c6zg3civnahnm34fx2nb7vmkju&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
-<div align="left">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamascor&" alt="mamascor" /></p>
+<div align="center">
+  
 <img src="https://komarev.com/ghpvc/?username=mamascor&&style=flat-square" align="center" />
 </div>  
   
