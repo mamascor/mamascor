@@ -90,7 +90,8 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamascor&" alt="mamascor" /></p>
 <img src="https://komarev.com/ghpvc/?username=mamascor&&style=flat-square" align="center" />
 </div>  
   
@@ -99,5 +100,5 @@
 
 <div align="center"></div>
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamascor&" alt="mamascor" /></p>
+
 
